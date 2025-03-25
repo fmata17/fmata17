@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fmata17.
-- 👀 I’m interested in software development and network management.
-- 🌱 I’m currently learning Python, C++, and Windows Server 2019.
-- 💞️ I’m looking to collaborate on intermediate-level Python projects.
-- 📫 You can reach me at my email: fredymata17@icloud.com
+- 👋 Hi, I’m Fredy
+- 🎓 CS student & BI developer
+- 🛠️ Building useful, scalable software
+- 💡 Into automation, AI, and system design
+- 🌍 Working across web, data, and cloud
 
 <!---
 fmata17/fmata17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
